@@ -1,5 +1,6 @@
 # 🏀 객체 검출 프로젝트: 농구 경기 분석
 - Object detection의 핵심 원리를 이해한 후, 이를 기반으로한 개인 프로젝트를 수행하였습니다.
+
 <Br>
 
 
@@ -58,6 +59,7 @@
 
 
 ## [모델 선정]
+- [소스코드](https://colab.research.google.com/github/dessertgomjelly/Object_detection_mini_project/blob/main/%08%EB%86%8D%EA%B5%AC_%EA%B0%9D%EC%B2%B4_%EC%9D%B8%EC%8B%9D.ipynb)
 - colab의 하드웨어 가속기 T4 GPU를 사용
 - YOLO v5 PyTorch model
 
