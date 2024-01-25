@@ -13,10 +13,11 @@
 
 ## [주요 기능]
 - 농구 경기 동영상 내의 [Ball , Hoop, Ref, player, team point] 검출 성공
-<img width="300" alt="testVideo2 " src="https://github.com/dessertgomjelly/Object_detection_mini_project/assets/127851446/cb857bb9-a21f-4fe0-b328-140a3febd97b">
+
+<img width="400" alt="테스트비디오2" src="https://github.com/dessertgomjelly/Object_detection_mini_project/assets/127851446/a17f5728-6ceb-4ec2-a104-76b17091b042">
 
 
-<img width="400" alt="testVideo2" src="https://github.com/dessertgomjelly/Object_detection_mini_project/assets/127851446/31e98fc5-3670-42bb-8aaa-754ca567e6d2">
+<img width="600" alt="testVideo2" src="https://github.com/dessertgomjelly/Object_detection_mini_project/assets/127851446/31e98fc5-3670-42bb-8aaa-754ca567e6d2">
 <br>
 <br>
 <br>
