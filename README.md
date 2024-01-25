@@ -86,7 +86,7 @@
 
 <pre>
 #data.yaml
-names: [Ball, Hoop, Period, Player, Ref, Shot Clock, Team Name, Team Points, Time Remaining, player
+names: [Ball, Hoop, Period, Player, Ref, Shot Clock, Team Name, Team Points, Time Remaining, player]
 nc: 10
 roboflow:
   license: CC BY 4.0
