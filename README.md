@@ -36,7 +36,7 @@
   - 테스트 데이터 세트 : 18 Images
  
     
-- YOLO v5 PytTorch format으로 api_key를 이용하여 내보내기
+- YOLO v5 PytTorch format으로 api_key를 이용하여 파이썬으로 내보내기
 
 
 <pre>
@@ -59,7 +59,7 @@
 
 ## [모델 선정]
 - [소스코드](https://colab.research.google.com/github/dessertgomjelly/Object_detection_mini_project/blob/main/%08%EB%86%8D%EA%B5%AC_%EA%B0%9D%EC%B2%B4_%EC%9D%B8%EC%8B%9D.ipynb)
-- colab의 하드웨어 가속기 T4 GPU를 사용
+- Colab의 하드웨어 가속기 T4 GPU를 사용
 - YOLO v5 PyTorch model
 
 <pre>
